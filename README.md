@@ -65,7 +65,3 @@ As queries presentes cobrem:
 
 - SQL Server
 - Linguagem SQL (DDL, DML, SELECT)
-
-## 📚 Autor
-
-Desenvolvido como parte do desafio do módulo de modelagem de banco de dados.
