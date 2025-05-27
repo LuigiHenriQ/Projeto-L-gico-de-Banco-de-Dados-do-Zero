@@ -1,7 +1,7 @@
 
 # Projeto de Banco de Dados - Sistema de Oficina
 
-Este projeto foi desenvolvido como parte do desafio do curso de modelagem de banco de dados. O objetivo é modelar e implementar um banco de dados relacional para um sistema de gerenciamento de uma oficina mecânica, partindo de um modelo conceitual (modelo ER) até sua implementação física com SQL Server.
+Este projeto foi desenvolvido como parte do desafio do Bootcamp de modelagem de banco de dados. O objetivo é modelar e implementar um banco de dados relacional para um sistema de gerenciamento de uma oficina mecânica, partindo de um modelo conceitual (modelo ER) até sua implementação física com SQL Server.
 
 ## 💡 Descrição
 
